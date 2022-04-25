@@ -1,2 +1,0 @@
-# AQI
-get code & fuckoff
